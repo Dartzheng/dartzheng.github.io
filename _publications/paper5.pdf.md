@@ -1,0 +1,13 @@
+---
+title: "Automated Knitting Instruction Generation from Fabric Images Using Deep Learning"
+collection: publications
+permalink: /files/paper5/
+excerpt: 'This paper proposes a deep learning method to generate knitting instructions from fabric images, reversing the traditional process of manual pattern coding. The instructions are based on the five-layer structure derived from knitting logic, consisting of a front label recognizable from the front real image and a complete label corresponding to the knitting programming. The approach is divided into two phases: the Generation Phase, where neural networks produce front label instructions, and the Inference Phase, where mesh-based logic expands these instructions into complete labels. We also introduce an optimized labeling method for Kaspar&apos;s dataset, improving the accuracy, scalability, and knittability of the generated instructions. This method simplifies the knitting process by automating instruction generation directly from fabric images.'
+date: 2024-12-17
+venue: '2024 3rd International Conference on Automation, Robotics and Computer Engineering (ICARCE), IEEE'
+paperurl: 'https://doi.org/10.1109/ICARCE63054.2024.00044'
+citation: 'X. Zheng, H. Sheng, S. Cai, M. C. Lau, and K. Zhao, &quot;Automated Knitting Instruction Generation from Fabric Images Using Deep Learning,&quot; 2024 3rd International Conference on Automation, Robotics and Computer Engineering (ICARCE), IEEE, 2024, pp. 197-201. DOI:'
+---
+This paper proposes a deep learning method to generate knitting instructions from fabric images, reversing the traditional process of manual pattern coding. The instructions are based on the five-layer structure derived from knitting logic, consisting of a front label recognizable from the front real image and a complete label corresponding to the knitting programming. The approach is divided into two phases: the Generation Phase, where neural networks produce front label instructions, and the Inference Phase, where mesh-based logic expands these instructions into complete labels. We also introduce an optimized labeling method for Kaspar&apos;s dataset, improving the accuracy, scalability, and knittability of the generated instructions. This method simplifies the knitting process by automating instruction generation directly from fabric images.
+
+Recommended citation: X. Zheng, H. Sheng, S. Cai, M. C. Lau, and K. Zhao, "Automated Knitting Instruction Generation from Fabric Images Using Deep Learning," 2024 3rd International Conference on Automation, Robotics and Computer Engineering (ICARCE), IEEE, 2024, pp. 197-201. DOI: [https://doi.org/10.1109/ICARCE63054.2024.00044](https://doi.org/10.1109/ICARCE63054.2024.00044)

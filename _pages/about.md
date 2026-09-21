@@ -1,16 +1,18 @@
 ---
 permalink: /
-title: "Dart Zheng is a teacher of knitting design and engineering. "
+title: "Dart Zheng is a knitting engineer and researcher in digital knitting and textile automation. "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Dart Zheng is a Knitting Engineer and Assistant Dean at SIFEC under the Oriental International (Group) Co., Ltd. He is also the Head of the Knitting Department and a teacher at the Shanghai Sanda University’s Fashion College. Furthermore, Dart Zheng is the founder of SIFEC’s Knitting Design and Sample Studio.
+Dart Zheng is a M.Sc student major in computational science at Laurentian University, Canada, where his research focuses on deep learning for automated knitting and textile robotics. Previously, he was a Knitting Engineer and Assistant Dean at SIFEC under the Oriental International (Group) Co., Ltd., and served as the Head of the Knitting Department and a teacher at Shanghai Sanda University's Fashion College. He also founded SIFEC's Knitting Design and Sample Studio.
 
 Educational Background
 ======
+2025.01-2027.04 Laurentian University, M.Sc (Research-based) in Computational Science
+
 2021.09-2024.06 East China Normal University Master of Public Administration, (specializing in Educational Management)
  
 2012.09-2016.06 Shanghai University of Engineering Science Fashion Design and engineering Bachelor’s
@@ -18,7 +20,9 @@ Educational Background
 
 Work Experience
 ======
-2018.01 to present - Shanghai International Fashion Education Center (under Oriental International Group Co., Ltd.) Assistant Dean of the Fashion Institute, Head of the Knitting Teaching and R&D Department. 
+2025.01 to present - Laurentian University, Teaching Assistant.
+
+2018.01 to 2025.01 - Shanghai International Fashion Education Center (under Oriental International Group Co., Ltd.) Assistant Dean of the Fashion Institute, Head of the Knitting Teaching and R&D Department. 
  
 -(2019.09 to present) Shanghai Sanda University Fashion Institute: Teacher, Head of the Knitting Department.
 ![Editing a markdown file for a talk](/images/sifec.png)
